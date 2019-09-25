@@ -1,0 +1,7 @@
+# Sql Lite db
+db.sqlite3
+
+# Other Dev directories
+.history
+.vscode
+env
