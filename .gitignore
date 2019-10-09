@@ -2,6 +2,7 @@
 db.sqlite3
 
 # Other Dev directories
+__pycache__
 .history
 .vscode
 env
