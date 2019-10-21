@@ -6,6 +6,6 @@ __pycache__
 .history
 .vscode
 env
-__pycache__/**
+main/__pycache__
 Pipfile
 Pipfile.*
